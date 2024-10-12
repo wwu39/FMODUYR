@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{5ddc1399-d8ee-4cc7-ac9e-0999325f0491}">
+		<property name="name">
+			<value>UnitAction</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1def7e72-df6e-4282-a971-64ccd7698ea8}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{26db32c7-bbce-40d1-ac65-6f8b04c52157}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{26db32c7-bbce-40d1-ac65-6f8b04c52157}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>7</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Select</value>
+			<value>Move</value>
+			<value>Attack</value>
+			<value>Skill</value>
+			<value>Fear</value>
+			<value>Die</value>
+			<value>BuildingSelect</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
