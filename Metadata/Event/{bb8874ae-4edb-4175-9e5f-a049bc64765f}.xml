@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{bb8874ae-4edb-4175-9e5f-a049bc64765f}">
 		<property name="name">
-			<value>AMCVST</value>
+			<value>mcvst</value>
 		</property>
 		<property name="outputFormat">
 			<value>0</value>
