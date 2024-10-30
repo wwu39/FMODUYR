@@ -76,12 +76,12 @@
 	</object>
 	<object class="MultiSound" id="{e4980af4-a86e-4db9-a09a-98fca95f1012}">
 		<property name="length">
-			<value>0.92244897959183669</value>
+			<value>0.59959183673469385</value>
 		</property>
 		<relationship name="sounds">
-			<destination>{de0741b9-5ea0-4a99-bdaa-79eed327ab64}</destination>
-			<destination>{5bdec063-b82c-4a93-991f-0de74baab2d0}</destination>
-			<destination>{b55050cc-904f-4728-89f8-2bd4773a0239}</destination>
+			<destination>{ab0e77f6-32a1-441a-91a9-8c88a9881d4d}</destination>
+			<destination>{191a255c-9b82-41e5-a723-605eb905a358}</destination>
+			<destination>{0589df71-83f2-467f-a531-a409c18e61df}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{d21ed126-0400-4927-a3b8-a09369d1c2c1}">
@@ -96,19 +96,19 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{a7b6b35f-2b47-4eca-8eaf-966e50a21b62}" />
-	<object class="SingleSound" id="{de0741b9-5ea0-4a99-bdaa-79eed327ab64}">
+	<object class="SingleSound" id="{ab0e77f6-32a1-441a-91a9-8c88a9881d4d}">
 		<relationship name="audioFile">
-			<destination>{e1364bd8-4f4b-4477-8889-8bb6a6ad31a7}</destination>
+			<destination>{4f53ac20-b20c-48d3-a248-dad5a13d5842}</destination>
 		</relationship>
 	</object>
-	<object class="SingleSound" id="{5bdec063-b82c-4a93-991f-0de74baab2d0}">
+	<object class="SingleSound" id="{191a255c-9b82-41e5-a723-605eb905a358}">
 		<relationship name="audioFile">
-			<destination>{6fcf3b02-dce4-44e3-abf4-57ed3d0d1df8}</destination>
+			<destination>{c3199b68-273c-4dd3-b20e-99ea50de2504}</destination>
 		</relationship>
 	</object>
-	<object class="SingleSound" id="{b55050cc-904f-4728-89f8-2bd4773a0239}">
+	<object class="SingleSound" id="{0589df71-83f2-467f-a531-a409c18e61df}">
 		<relationship name="audioFile">
-			<destination>{311181d5-7483-4fe5-b76b-b8b5da168424}</destination>
+			<destination>{64046efc-96d0-40e8-9b15-a9335bd86d76}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{62bf1230-861a-4fe9-b1df-2b4859d36957}" />

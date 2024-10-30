@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{e1364bd8-4f4b-4477-8889-8bb6a6ad31a7}">
 		<property name="assetPath">
-			<value>Sound/vhumexia.wav</value>
+			<value>Units/Ranger/vhumexia.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>22.0499992</value>

@@ -8,7 +8,7 @@
 			<value>0</value>
 		</property>
 		<relationship name="folder">
-			<destination>{dbf94208-b8a2-442b-9652-53ea74db1c1d}</destination>
+			<destination>{d5786b5c-f6ae-42cc-a768-ca8fadb820fb}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{c051ebed-40df-4305-bfba-8f07054609fa}</destination>
@@ -28,6 +28,9 @@
 		<relationship name="timeline">
 			<destination>{a6995ec2-41cf-469f-8f97-85d989b86e0b}</destination>
 		</relationship>
+		<relationship name="parameters">
+			<destination>{d57ad654-f3e2-46d2-b4e7-a663618e4740}</destination>
+		</relationship>
 		<relationship name="banks">
 			<destination>{55c2442e-f5e6-45b3-bf1c-450154b217f9}</destination>
 		</relationship>
@@ -39,7 +42,7 @@
 	</object>
 	<object class="MasterTrack" id="{18de1ed4-873b-4e86-80fa-7f463fc6bdd0}">
 		<relationship name="modules">
-			<destination>{014da17d-7a9e-46c1-b10e-bd40d78611f7}</destination>
+			<destination>{89f3f948-2000-4353-a121-1df36cb30cbc}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{6763f005-8e31-4a91-beb0-d4abb5305c15}</destination>
@@ -59,8 +62,16 @@
 	<object class="EventAutomatableProperties" id="{a62503aa-15de-486e-a2d4-10d27a5463b6}" />
 	<object class="MarkerTrack" id="{953979d0-61e4-4fd4-823a-5ce1af033d3d}" />
 	<object class="Timeline" id="{a6995ec2-41cf-469f-8f97-85d989b86e0b}">
+		<property name="isProxyEnabled">
+			<value>false</value>
+		</property>
+	</object>
+	<object class="ParameterProxy" id="{d57ad654-f3e2-46d2-b4e7-a663618e4740}">
 		<relationship name="modules">
-			<destination>{014da17d-7a9e-46c1-b10e-bd40d78611f7}</destination>
+			<destination>{89f3f948-2000-4353-a121-1df36cb30cbc}</destination>
+		</relationship>
+		<relationship name="preset">
+			<destination>{4da3b2ca-a1db-4fb4-9c1d-9294178eb1cf}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{6763f005-8e31-4a91-beb0-d4abb5305c15}">
@@ -74,10 +85,7 @@
 			<destination>{c051ebed-40df-4305-bfba-8f07054609fa}</destination>
 		</relationship>
 	</object>
-	<object class="SingleSound" id="{014da17d-7a9e-46c1-b10e-bd40d78611f7}">
-		<property name="length">
-			<value>0.29224489795918368</value>
-		</property>
+	<object class="SingleSound" id="{89f3f948-2000-4353-a121-1df36cb30cbc}">
 		<relationship name="audioFile">
 			<destination>{670cb92e-dbcd-46b9-8aaf-7c92f1dca4c7}</destination>
 		</relationship>

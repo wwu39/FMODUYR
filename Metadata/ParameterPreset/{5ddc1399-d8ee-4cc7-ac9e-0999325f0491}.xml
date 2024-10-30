@@ -16,7 +16,7 @@
 			<value>2</value>
 		</property>
 		<property name="maximum">
-			<value>7</value>
+			<value>8</value>
 		</property>
 		<property name="enumerationLabels">
 			<value>Select</value>
@@ -26,6 +26,7 @@
 			<value>Fear</value>
 			<value>Die</value>
 			<value>BuildingSelect</value>
+			<value>Create</value>
 		</property>
 		<property name="initialValue">
 			<value>0</value>
