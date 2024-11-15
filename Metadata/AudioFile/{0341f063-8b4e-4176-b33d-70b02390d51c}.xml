@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0341f063-8b4e-4176-b33d-70b02390d51c}">
+		<property name="assetPath">
+			<value>Units/RocketBuggy/vrocmoe.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.73909297052154199</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f8f660be-cea2-4f2a-94d8-0a35db52223b}</destination>
+		</relationship>
+	</object>
+</objects>

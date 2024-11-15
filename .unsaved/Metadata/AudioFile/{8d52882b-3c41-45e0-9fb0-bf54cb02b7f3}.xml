@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8d52882b-3c41-45e0-9fb0-bf54cb02b7f3}">
+		<property name="assetPath">
+			<value>Units/TTNK/vtesstaa.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2.3620861678004537</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f8f660be-cea2-4f2a-94d8-0a35db52223b}</destination>
+		</relationship>
+	</object>
+</objects>

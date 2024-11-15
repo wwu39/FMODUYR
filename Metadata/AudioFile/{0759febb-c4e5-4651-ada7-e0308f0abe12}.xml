@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0759febb-c4e5-4651-ada7-e0308f0abe12}">
+		<property name="assetPath">
+			<value>Units/Decurion/GUJugge_wea1fireb.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.9066666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f8f660be-cea2-4f2a-94d8-0a35db52223b}</destination>
+		</relationship>
+	</object>
+</objects>
