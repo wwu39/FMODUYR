@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{113b76c2-15a0-475f-b0dc-21fe505715a9}">
+		<property name="name">
+			<value>TeslaStage</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1def7e72-df6e-4282-a971-64ccd7698ea8}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{796ac190-40e1-4834-91e9-fa9517b707b1}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{796ac190-40e1-4834-91e9-fa9517b707b1}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
