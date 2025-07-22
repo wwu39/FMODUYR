@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{ccfdccdb-5520-4792-8102-c103c2ed19f6}">
 		<property name="assetPath">
-			<value>Units/GI/sel (1).wav</value>
+			<value>Units/PeaceKeeper/sel (1).wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

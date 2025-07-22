@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{86b749ad-0099-4236-a1e3-c9d894e6a854}">
 		<property name="assetPath">
-			<value>Units/FALC/igiat1b.wav</value>
+			<value>Units/GI/igiat1b.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>22.0499992</value>
